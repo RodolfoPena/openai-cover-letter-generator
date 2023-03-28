@@ -1,0 +1,1 @@
+# openai-cover-letter-generator
